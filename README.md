@@ -1,7 +1,7 @@
 <img width="99.9%" src="https://raw.githubusercontent.com/mishakorzik/mishakorzik.menu.io/master/img/AdminHackImg/IMG-adc29ed25806177260186a4fbdbe70c9-V.jpg"/>
 
 ## Join US 
-[![Github]](https://t.me/vPwnd)
+https://t.me/vPwnd
 
 ## I recommend watching
 <p align="center">
