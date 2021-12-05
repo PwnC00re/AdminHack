@@ -3,15 +3,6 @@
 ## Join US 
 https://t.me/vPwnd
 
-## I recommend watching
-<p align="center">
-• <a href="https://github.com/mishakorzik/AdminHack/blob/main/LICENSE">License</a> 
-• <a href="https://github.com/mishakorzik/AdminHack/issues">Issues</a> 
-• <a href="https://github.com/mishakorzik">Developer</a> 
-• <a href="https://github.com/mishakorzik/AdminHack/wiki">Wikipedia</a> •
-
-</p>
-
 
 **A script to find admin login pages and EAR vulnerabilites.**
 
@@ -32,7 +23,7 @@ https://t.me/vPwnd
 * `pkg upgrade`
 * `pkg update`
 * `pkg install git`
-* `git clone https://github.com/mishakorzik/AdminHack`
+* `git clone https://github.com/PwnC00re/AdminHack`
 * `cd AdminHack`
 * `bash setup.sh`
 
@@ -45,7 +36,7 @@ https://t.me/vPwnd
 * `apt update`
 * `apt upgrade`
 * `apt install git`
-* `git clone https://github.com/mishakorzik/AdminHack`
+* `git clone https://github.com/PwnC00re/AdminHack`
 * `cd AdminHack`
 * `bash setup.sh`
 
@@ -93,21 +84,3 @@ If the tool fails, follow these steps:
 <img width="53.0%" src="src/IMG_20210809_124540.jpg"/> 
 <img width="44.5%" src="src/IMG_20210814_122526.jpg"/>
 </p>
-
-
-
-1.<a href="https://github.com/mishakorzik/qiq">qiq - Useful batch installer</a> <br>
-2.<a href="https://github.com/mishakorzik/Gmail-Hack">Gmail-Hack - Easy email hacking</a> <br>
-3.<a href="https://github.com/mishakorzik/AllHackingTools">AllHackingTools - system for large hacking</a> <br>
-4.<a href="https://github.com/mishakorzik/Infect">Infect - Easy virus creation</a> <br>
-5.<a href="https://github.com/mishakorzik/Free-Proxy">Free-Proxy - Lots of free proxy servers</a> <br>
-6.<a href="https://github.com/mishakorzik/IpHack">IpHack - Easy Tracking smartphones</a> <br>
-7.<a href="https://github.com/mishakorzik/UserFinder">UserFinder - Find users in social</a> <br>
-8.<a href="https://github.com/mishakorzik/Ultra-DDos">Ultra-DDos - Hing ddos bad sites</a> <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mishakorzik&show_icons=true&theme=default&line_height=25&layout=compact" /></p>
-
-## Supporters
-[![Stargazers repo roster for @mishakorzik/AdminHack](https://reporoster.com/stars/mishakorzik/AdminHack)](https://github.com/mishakorzik/AdminHack/stargazers)
-[![Forkers repo roster for @mishakorzik/AdminHack](https://reporoster.com/forks/mishakorzik/AdminHack)](https://github.com/mishakorzik/AdminHack/members)
-
